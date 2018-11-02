@@ -1,0 +1,23 @@
+.preview--wrapper {
+  display: flex;
+  flex-direction: column;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  min-height: 30rem;
+  width: 100%;
+  height: auto;
+  position: relative;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.preview--wrapper .preview-heading__size {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.preview--wrapper .preview-heading__color {
+  color: #B139CC;
+}
+
+

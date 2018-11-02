@@ -11,6 +11,8 @@
     background-position: center center;
     padding-top: 8rem;
     padding-bottom: 8rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .header--wrapper .form-input {
