@@ -18,3 +18,26 @@
     height: 46px;
 }
 
+.btn__position {
+    margin-top: 1rem;
+    float: right;   
+    margin-right: 1rem;
+}
+
+.restaurant-search-form__position {
+    margin-top: 2rem;
+}
+
+.logo__size {
+    width: 16rem;
+}
+
+.logo__position {
+    margin: auto;
+    margin-bottom: 0px;
+}
+
+.btn__color {
+    background-color: #23C28B;
+    border: transparent;
+}

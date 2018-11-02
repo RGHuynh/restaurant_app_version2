@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="491px" height="120px" viewBox="0 0 491 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-320.000000, -440.000000)">
+            <g id="Group" transform="translate(320.000000, 436.000000)">
+                <g id="TEXT" transform="translate(98.000000, 0.000000)" fill="#22BF88" font-family="Roboto-Black, Roboto" font-size="61" font-weight="700" letter-spacing="0.44852978">
+                    <text id="RANDOM">
+                        <tspan x="0" y="57">RANDOM</tspan>
+                    </text>
+                    <text id="RESTAURANT">
+                        <tspan x="0" y="113">RESTAURANT</tspan>
+                    </text>
+                </g>
+                <g id="CUP" transform="translate(0.000000, 12.000000)">
+                    <path d="M10.6666667,16 L16,0 L64,0 L69.3333333,16 L80,16 L80,24 L72,24 L64,104 L16,104 L8,24 L0,24 L0,16 L10.6666667,16 Z" id="Combined-Shape" fill="#D8D8D8" opacity="0.981701079"></path>
+                    <rect id="Rectangle" fill="#6A6A6A" opacity="0.981701079" x="0" y="16" width="80" height="8"></rect>
+                    <circle id="Oval" fill="#F73E3E" cx="40" cy="52" r="16"></circle>
+                    <circle id="Oval-Copy" fill="#FFFFFF" cx="40" cy="52" r="13"></circle>
+                </g>
+                <rect id="Rectangle" fill="#F73E3E" opacity="0.981701079" x="88" y="4" width="8" height="120"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
