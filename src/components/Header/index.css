@@ -5,7 +5,10 @@
     flex-direction: column;
     width: 100%;
     height: auto;
-    background: url('../../assets/pictures/headerBackground.jpg');
+    background: linear-gradient(76deg,
+        rgba(177, 57, 204, 0.24), 
+        rgba(44, 14, 51, 0.34)
+      ), url('../../assets/pictures/headerBackground.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -28,10 +31,14 @@
 
 .restaurant-search-form__position {
     margin-top: 2rem;
+    width: 100%;
+    max-width: 499px;
+    margin: auto;
 }
 
 .logo__size {
-    width: 16rem;
+    width: 100%;
+    max-width: 425px;
 }
 
 .logo__position {

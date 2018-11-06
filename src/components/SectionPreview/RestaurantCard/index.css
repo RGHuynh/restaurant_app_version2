@@ -1,6 +1,6 @@
 .preview-card-wrapper {
   min-height: 300px;
-  width: 100%;
+  width: 320px;
   height: auto;
   display: flex;
   flex-direction: column;
@@ -14,10 +14,12 @@
 }
 .sub-description-wrapper .address {
   float: left;
+  font-size: 11px;
 }
 
 .sub-description-wrapper .phone-number {
   float: right;
+  font-size: 11px;
 }
 
 .preview-card-wrapper .card-image {
@@ -53,3 +55,4 @@
   font-weight: bold;
   font-size: 1rem;
 }
+

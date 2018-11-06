@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import HeaderComponent from './components/headercomponent/headercomponent';
-import PreviewSectionComponent from './components/previewSectionComponent/previewSectionComponent';
+import HeaderComponent from './components/Header';
+import PreviewSectionComponent from './components/SectionPreview';
+import Landing from './components/Pages/Landing';
 import './App.css';
 
 class App extends Component {
