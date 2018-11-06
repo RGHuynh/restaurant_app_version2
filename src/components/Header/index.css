@@ -1,10 +1,13 @@
-.header--wrapper {
-    min-height: 30rem;
-    position: relative;
+.section {
     display: flex;
     flex-direction: column;
     width: 100%;
     height: auto;
+    position: relative;
+  }
+
+.header-wrapper {
+    min-height: 38rem;
     background: linear-gradient(76deg,
         rgba(177, 57, 204, 0.24), 
         rgba(44, 14, 51, 0.34)
@@ -18,8 +21,8 @@
     padding-right: 1rem;
 }
 
-.header--wrapper .form-input {
-    width: 100%;
+.header-wrapper .form-input {
+    width: 50%;
     height: 46px;
 }
 
@@ -50,4 +53,8 @@
     background-color: #23C28B;
     border: transparent;
     font-weight: bold;
+}
+
+.input-wrapper {
+    border-radius: 10px;
 }

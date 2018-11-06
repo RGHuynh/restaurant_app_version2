@@ -18,9 +18,9 @@ export default class PreviewSectionComponent extends Component {
 
   render(){
     return(
-      <section className="preview--wrapper">
+      <section className="section preview--wrapper">
         <h1 className="preview-heading__size preview-heading__color">See The Best Restaurant In Your Area</h1>
-        <div className="card-wrapper">
+        <div className="card-container-wrapper">
           { this.state.restaurantsDefault.map(restaurant => {
             return(
             <PreviewCardComponent

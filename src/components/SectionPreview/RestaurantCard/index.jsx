@@ -11,9 +11,9 @@ export default function PreviewCardComponent({restaurantName, image, location, p
   }
   
   return(
-    <div className="preview-card-wrapper">
+    <div className="section card-wrapper">
       <div className="card-image" style={imageUrl}></div>
-      <div className="sub-section-wrapper">
+      <div className="sub-card-wrapper">
         <div className="sub-description-wrapper">
           <label className="address">{location}</label>
           <label className="phone-number"> {phone}</label>
