@@ -1,0 +1,12 @@
+.restaurant-header-wrapper {
+  border: 1px solid black;
+  min-height: 38rem;
+  flex-wrap: wrap;
+  flex-direction: row !important;
+}
+
+.restaurant-image {
+  border: 1px solid black;
+  min-height: 22rem;
+  min-width: 100%;
+}
