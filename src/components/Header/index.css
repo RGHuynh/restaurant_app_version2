@@ -1,0 +1,60 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+.header-wrapper {
+    min-height: 38rem;
+    background: linear-gradient(76deg,
+        rgba(177, 57, 204, 0.24), 
+        rgba(44, 14, 51, 0.34)
+      ), url('../../assets/pictures/headerBackground.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.header-wrapper .form-input {
+    width: 50%;
+    height: 46px;
+}
+
+.btn__position {
+    margin-top: 1rem;
+    float: right;   
+    margin-right: 1rem;
+}
+
+.restaurant-search-form__position {
+    margin-top: 2rem;
+    width: 100%;
+    max-width: 499px;
+    margin: auto;
+}
+
+.logo__size {
+    width: 100%;
+    max-width: 425px;
+}
+
+.logo__position {
+    margin: auto;
+    margin-bottom: 0px;
+}
+
+.btn__color {
+    background-color: #23C28B;
+    border: transparent;
+    font-weight: bold;
+}
+
+.input-wrapper {
+    border-radius: 10px;
+}

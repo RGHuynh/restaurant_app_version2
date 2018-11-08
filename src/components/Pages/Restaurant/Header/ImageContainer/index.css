@@ -1,0 +1,4 @@
+#restaurant-image1, #restaurant-image2 {
+  min-height: 2rem !important;
+  min-width: 50%;
+}
